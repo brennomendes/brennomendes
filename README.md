@@ -1,4 +1,4 @@
-# 👋 Olá, mundo! Eu sou o Brenno Mendes
+# 👋 Olá, mundo! Eu sou o Brenno
 
 Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologia, que adora resolver problemas, aprender novas tecnologias e colaborar em projetos incríveis.
 
