@@ -1,12 +1,12 @@
-# 👋 Hello World! I'm Brenno Mendes
+# 👋 Olá, mundo! Eu sou o Brenno Mendes
 
-Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast who loves solving problems, learning new technologies, and collaborating on awesome projects.
+Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologia, que adora resolver problemas, aprender novas tecnologias e colaborar em projetos incríveis.
 
-## 🚀 About Me
-- 💻 I'm studing **Python, C and Cibersecurity at moment.**
-- 🌱 Currently, my focus is **Cibersecurity, thais is the carrer than I want to follow and specialize in future.**
-- 🎯 My goal is to **Give my best, specialize more and more and secure an internship opportunity in the cybersecurity area.**
-- 💡 Fun fact: **I love sports, astronomy and learning new things.**
+## 🚀 Sobre mim
+- 💻 Atualmente estou estudando **Python, C e Cibersegurança.**
+- 🌱 Meu foco atual é em **Cibersegurança, pois é a carreira que desejo seguir e me especializar no futuro.**
+- 🎯 Meu objetivo é **dar sempre o meu melhor, me especializar cada vez mais e conquistar uma oportunidade de estágio na área de cibersegurança.**
+- 💡 Curiosidade: **Amo esportes, astronomia e aprender coisas novas.**
 
 ## 🔧 Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -20,8 +20,8 @@ Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast who
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=brennomendes&show_icons=true&theme=radical)
 
-## 📫 Let's Connect!
+## 📫  Vamos nos conectar!
 - 💼 LinkedIn: [linkedin.com/in/brennomendes](https://linkedin.com/in/brennomendes)
 ---
 
-Thank you for visiting my profile! Have a great day! 😊
+Obrigado por visitar meu perfil! Tenha um ótimo dia! 😊
